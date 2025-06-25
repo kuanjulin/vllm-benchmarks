@@ -32,4 +32,6 @@ We compared inference performance between [vLLM](https://github.com/vllm-project
 | Hugging Face FP16        | 384.89                        | **6.43**      | **99.9%**|
 | Hugging Face FP32        | 314.19                        | 14.06         | 99.9%    |
 
-**TODO:** Placeholder for graphs
+
+---
+![Benchmark Results](results/benchmarks.png)
